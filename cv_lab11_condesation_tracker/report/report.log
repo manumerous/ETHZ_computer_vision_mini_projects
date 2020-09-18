@@ -1,0 +1,304 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.13)  20 DEC 2019 23:24
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2019-10-01>
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+)
+(report.aux
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box29
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\admin\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+ [1
+
+{C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<1.jpg, id=12, 674.52pt x 505.89pt>
+File: 1.jpg Graphic file (type jpg)
+<use 1.jpg>
+Package pdftex.def Info: 1.jpg  used on input line 59.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+<bad_position_model.jpg, id=13, 674.52pt x 505.89pt>
+File: bad_position_model.jpg Graphic file (type jpg)
+<use bad_position_model.jpg>
+Package pdftex.def Info: bad_position_model.jpg  used on input line 74.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+<const_vel.jpg, id=14, 674.52pt x 505.89pt>
+File: const_vel.jpg Graphic file (type jpg)
+<use const_vel.jpg>
+Package pdftex.def Info: const_vel.jpg  used on input line 82.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+
+[2 <./1.jpg>] [3 <./bad_position_model.jpg>]
+<low_noise.jpg, id=21, 674.52pt x 505.89pt>
+File: low_noise.jpg Graphic file (type jpg)
+<use low_noise.jpg>
+Package pdftex.def Info: low_noise.jpg  used on input line 95.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+ [4 <./const_vel.jpg>]
+<high_noise.jpg, id=25, 674.52pt x 505.89pt>
+File: high_noise.jpg Graphic file (type jpg)
+<use high_noise.jpg>
+Package pdftex.def Info: high_noise.jpg  used on input line 104.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+ [5 <./low_noise.jpg>]
+<normal_low_noise.jpg, id=29, 674.52pt x 505.89pt>
+File: normal_low_noise.jpg Graphic file (type jpg)
+<use normal_low_noise.jpg>
+Package pdftex.def Info: normal_low_noise.jpg  used on input line 113.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+ [6 <./high_noise.jpg>]
+<observe_002.jpg, id=33, 674.52pt x 505.89pt>
+File: observe_002.jpg Graphic file (type jpg)
+<use observe_002.jpg>
+Package pdftex.def Info: observe_002.jpg  used on input line 120.
+(pdftex.def)             Requested size: 175.49881pt x 131.62093pt.
+<observe_normal.jpg, id=34, 674.52pt x 505.89pt>
+File: observe_normal.jpg Graphic file (type jpg)
+<use observe_normal.jpg>
+Package pdftex.def Info: observe_normal.jpg  used on input line 126.
+(pdftex.def)             Requested size: 175.49881pt x 131.62093pt.
+<observe_05.jpg, id=35, 674.52pt x 505.89pt>
+File: observe_05.jpg Graphic file (type jpg)
+<use observe_05.jpg>
+Package pdftex.def Info: observe_05.jpg  used on input line 132.
+(pdftex.def)             Requested size: 175.49881pt x 131.62093pt.
+ [7 <./normal_low_noise.jpg> <./observe_002.jpg>]
+<v-1.jpg, id=40, 674.52pt x 505.89pt>
+File: v-1.jpg Graphic file (type jpg)
+<use v-1.jpg>
+Package pdftex.def Info: v-1.jpg  used on input line 141.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+ [8 <./observe_normal.jpg> <./observe_05.jpg>]
+<vid3.jpg, id=44, 674.52pt x 505.89pt>
+File: vid3.jpg Graphic file (type jpg)
+<use vid3.jpg>
+Package pdftex.def Info: vid3.jpg  used on input line 150.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+ [9 <./v-1.jpg>] [10 <./vid3.jpg>]
+<vid1_2.jpg, id=51, 674.52pt x 505.89pt>
+File: vid1_2.jpg Graphic file (type jpg)
+<use vid1_2.jpg>
+Package pdftex.def Info: vid1_2.jpg  used on input line 166.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+<vid_1_3.jpg, id=52, 674.52pt x 505.89pt>
+File: vid_1_3.jpg Graphic file (type jpg)
+<use vid_1_3.jpg>
+Package pdftex.def Info: vid_1_3.jpg  used on input line 172.
+(pdftex.def)             Requested size: 350.99762pt x 263.24956pt.
+ [11 <./vid1_2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+
+ []
+
+[12 <./vid_1_3.jpg>] (report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1617 strings out of 492452
+ 24137 string characters out of 3120063
+ 88503 words of memory out of 3000000
+ 5971 multiletter control sequences out of 15000+200000
+ 8501 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,8n,30p,508b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/admin/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admi
+n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
+:/Users/admin/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb>
+Output written on report.pdf (12 pages, 413372 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

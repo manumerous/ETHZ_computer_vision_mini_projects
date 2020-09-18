@@ -1,0 +1,598 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2019.11.15)  15 NOV 2019 20:20
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+) (report.aux
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+
+<dc3_1.jpg, id=1, 2746.26pt x 1610.015pt>
+File: dc3_1.jpg Graphic file (type jpg)
+ <use dc3_1.jpg>
+Package pdftex.def Info: dc3_1.jpg used on input line 27.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<dc3_2.jpg, id=2, 2746.26pt x 1610.015pt>
+File: dc3_2.jpg Graphic file (type jpg)
+ <use dc3_2.jpg>
+Package pdftex.def Info: dc3_2.jpg used on input line 28.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 27--29
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 27--29
+ [] 
+ []
+
+<dc5_1.jpg, id=3, 2746.26pt x 1610.015pt>
+File: dc5_1.jpg Graphic file (type jpg)
+ <use dc5_1.jpg>
+Package pdftex.def Info: dc5_1.jpg used on input line 35.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<dc5_2.jpg, id=4, 2746.26pt x 1610.015pt>
+File: dc5_2.jpg Graphic file (type jpg)
+ <use dc5_2.jpg>
+Package pdftex.def Info: dc5_2.jpg used on input line 36.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 35--37
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 35--37
+ [] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<dc7_1.jpg, id=16, 2746.26pt x 1610.015pt>
+File: dc7_1.jpg Graphic file (type jpg)
+ <use dc7_1.jpg>
+Package pdftex.def Info: dc7_1.jpg used on input line 43.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<dc7_2.jpg, id=17, 2746.26pt x 1610.015pt>
+File: dc7_2.jpg Graphic file (type jpg)
+ <use dc7_2.jpg>
+Package pdftex.def Info: dc7_2.jpg used on input line 44.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 43--45
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 43--45
+ [] 
+ []
+
+[2 <./dc3_1.jpg> <./dc3_2.jpg>] <dc11_1.jpg, id=21, 2746.26pt x 1610.015pt>
+File: dc11_1.jpg Graphic file (type jpg)
+
+<use dc11_1.jpg>
+Package pdftex.def Info: dc11_1.jpg used on input line 51.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+ <dc11_2.jpg, id=22, 2746.26pt x 1610.015pt>
+File: dc11_2.jpg Graphic file (type jpg)
+ <use dc11_2.jpg>
+Package pdftex.def Info: dc11_2.jpg used on input line 52.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 51--53
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 51--53
+ [] 
+ []
+
+[3 <./dc5_1.jpg> <./dc5_2.jpg>] <dc15_1.jpg, id=26, 2746.26pt x 1610.015pt>
+File: dc15_1.jpg Graphic file (type jpg)
+
+<use dc15_1.jpg>
+Package pdftex.def Info: dc15_1.jpg used on input line 59.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+ <dc15_2.jpg, id=27, 2746.26pt x 1610.015pt>
+File: dc15_2.jpg Graphic file (type jpg)
+ <use dc15_2.jpg>
+Package pdftex.def Info: dc15_2.jpg used on input line 60.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 59--61
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 59--61
+ [] 
+ []
+
+[4 <./dc7_1.jpg> <./dc7_2.jpg>] <dc19_1.jpg, id=31, 2746.26pt x 1610.015pt>
+File: dc19_1.jpg Graphic file (type jpg)
+
+<use dc19_1.jpg>
+Package pdftex.def Info: dc19_1.jpg used on input line 67.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+ <dc19_2.jpg, id=32, 2746.26pt x 1610.015pt>
+File: dc19_2.jpg Graphic file (type jpg)
+ <use dc19_2.jpg>
+Package pdftex.def Info: dc19_2.jpg used on input line 68.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 67--69
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 67--69
+ [] 
+ []
+
+[5 <./dc11_1.jpg> <./dc11_2.jpg>] [6 <./dc15_1.jpg> <./dc15_2.jpg>] [7 <./dc19_
+1.jpg> <./dc19_2.jpg>] <dc_model_19.jpg, id=43, 577.40718pt x 479.91797pt>
+File: dc_model_19.jpg Graphic file (type jpg)
+
+<use dc_model_19.jpg>
+Package pdftex.def Info: dc_model_19.jpg used on input line 80.
+(pdftex.def)             Requested size: 234.00238pt x 194.49753pt.
+ <dc_model_19_2.jpg, id=44, 461.47406pt x 423.83344pt>
+File: dc_model_19_2.jpg Graphic file (type jpg)
+
+<use dc_model_19_2.jpg>
+Package pdftex.def Info: dc_model_19_2.jpg used on input line 81.
+(pdftex.def)             Requested size: 234.00238pt x 214.91695pt.
+ [8] [9 <./dc_model_19.jpg> <./dc_model_19_2.jpg>]
+<gc_500_5_1.jpg, id=51, 2746.26pt x 1610.015pt>
+File: gc_500_5_1.jpg Graphic file (type jpg)
+ <use gc_500_5_1.jpg>
+Package pdftex.def Info: gc_500_5_1.jpg used on input line 98.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<gc_500_5_2.jpg, id=52, 2746.26pt x 1610.015pt>
+File: gc_500_5_2.jpg Graphic file (type jpg)
+ <use gc_500_5_2.jpg>
+Package pdftex.def Info: gc_500_5_2.jpg used on input line 99.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 98--100
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 98--100
+ [] 
+ []
+
+<gc_1000_5_1.jpg, id=53, 2746.26pt x 1610.015pt>
+File: gc_1000_5_1.jpg Graphic file (type jpg)
+ <use gc_1000_5_1.jpg>
+Package pdftex.def Info: gc_1000_5_1.jpg used on input line 105.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<gc_1000_5_2.jpg, id=54, 2746.26pt x 1610.015pt>
+File: gc_1000_5_2.jpg Graphic file (type jpg)
+ <use gc_1000_5_2.jpg>
+Package pdftex.def Info: gc_1000_5_2.jpg used on input line 106.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 105--107
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 105--107
+ [] 
+ []
+
+[10] <gc_2000_5_1.jpg, id=58, 2746.26pt x 1610.015pt>
+File: gc_2000_5_1.jpg Graphic file (type jpg)
+ <use gc_2000_5_1.jpg>
+Package pdftex.def Info: gc_2000_5_1.jpg used on input line 112.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<gc_2000_5_2.jpg, id=59, 2746.26pt x 1610.015pt>
+File: gc_2000_5_2.jpg Graphic file (type jpg)
+ <use gc_2000_5_2.jpg>
+Package pdftex.def Info: gc_2000_5_2.jpg used on input line 113.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 112--114
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 112--114
+ [] 
+ []
+
+[11 <./gc_500_5_1.jpg> <./gc_500_5_2.jpg>] [12 <./gc_1000_5_1.jpg> <./gc_1000_5
+_2.jpg>] <gc_500_3_1.jpg, id=66, 1124.2pt x 843.15pt>
+File: gc_500_3_1.jpg Graphic file (type jpg)
+ <use gc_500_3_1.jpg>
+Package pdftex.def Info: gc_500_3_1.jpg used on input line 126.
+(pdftex.def)             Requested size: 429.00238pt x 321.75119pt.
+
+<gc_500_3_2.jpg, id=67, 2746.26pt x 1610.015pt>
+File: gc_500_3_2.jpg Graphic file (type jpg)
+ <use gc_500_3_2.jpg>
+Package pdftex.def Info: gc_500_3_2.jpg used on input line 127.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 126--128
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 126--128
+ [] 
+ []
+
+[13 <./gc_2000_5_1.jpg> <./gc_2000_5_2.jpg>]
+File: gc_500_5_1.jpg Graphic file (type jpg)
+ <use gc_500_5_1.jpg>
+Package pdftex.def Info: gc_500_5_1.jpg used on input line 134.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+File: gc_500_5_2.jpg Graphic file (type jpg)
+
+<use gc_500_5_2.jpg>
+Package pdftex.def Info: gc_500_5_2.jpg used on input line 135.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 134--136
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 134--136
+ [] 
+ []
+
+[14]
+Overfull \vbox (52.57503pt too high) has occurred while \output is active []
+
+
+[15 <./gc_500_3_1.jpg> <./gc_500_3_2.jpg>]
+<gc_500_7_1.jpg, id=78, 2746.26pt x 1610.015pt>
+File: gc_500_7_1.jpg Graphic file (type jpg)
+ <use gc_500_7_1.jpg>
+Package pdftex.def Info: gc_500_7_1.jpg used on input line 142.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<gc_500_7_2.jpg, id=79, 2746.26pt x 1610.015pt>
+File: gc_500_7_2.jpg Graphic file (type jpg)
+ <use gc_500_7_2.jpg>
+Package pdftex.def Info: gc_500_7_2.jpg used on input line 143.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 142--144
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 142--144
+ [] 
+ []
+
+[16] <gc_model_1.jpg, id=83, 596.60391pt x 553.69359pt>
+File: gc_model_1.jpg Graphic file (type jpg)
+ <use gc_model_1.jpg>
+Package pdftex.def Info: gc_model_1.jpg used on input line 151.
+(pdftex.def)             Requested size: 234.00238pt x 217.17314pt.
+
+<gc_model_2.jpg, id=84, 618.43547pt x 480.67078pt>
+File: gc_model_2.jpg Graphic file (type jpg)
+ <use gc_model_2.jpg>
+Package pdftex.def Info: gc_model_2.jpg used on input line 152.
+(pdftex.def)             Requested size: 234.00238pt x 181.87201pt.
+
+[17 <./gc_500_7_1.jpg> <./gc_500_7_2.jpg>]
+Overfull \hbox (3.90009pt too wide) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 To cal-cu-late an au-to-matic dis-par-ity range an ap-proach us
+-ing 8-point RANSAC
+ []
+
+[18 <./gc_model_1.jpg> <./gc_model_2.jpg>]
+<8pRansac.jpg, id=91, 1903.11pt x 742.775pt>
+File: 8pRansac.jpg Graphic file (type jpg)
+ <use 8pRansac.jpg>
+Package pdftex.def Info: 8pRansac.jpg used on input line 165.
+(pdftex.def)             Requested size: 429.00238pt x 167.43451pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 165--166
+ [][] 
+ []
+
+<1.jpg, id=92, 2746.26pt x 1610.015pt>
+File: 1.jpg Graphic file (type jpg)
+ <use 1.jpg>
+Package pdftex.def Info: 1.jpg used on input line 179.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+<2.jpg, id=93, 2746.26pt x 1610.015pt>
+File: 2.jpg Graphic file (type jpg)
+ <use 2.jpg>
+Package pdftex.def Info: 2.jpg used on input line 180.
+(pdftex.def)             Requested size: 429.00238pt x 251.49052pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 179--181
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 179--181
+ [] 
+ []
+
+[19 <./8pRansac.jpg>] <5.jpg, id=98, 610.53094pt x 532.99126pt>
+File: 5.jpg Graphic file (type jpg)
+ <use 5.jpg>
+Package pdftex.def Info: 5.jpg used on input line 186.
+(pdftex.def)             Requested size: 312.00119pt x 272.3831pt.
+
+<6.jpg, id=99, 491.96297pt x 433.62pt>
+File: 6.jpg Graphic file (type jpg)
+ <use 6.jpg>
+Package pdftex.def Info: 6.jpg used on input line 187.
+(pdftex.def)             Requested size: 312.00119pt x 275.0082pt.
+ [20] [21 <./1.jpg> <./2.jpg>]
+Overfull \vbox (26.72461pt too high) has occurred while \output is active []
+
+
+[22 <./5.jpg> <./6.jpg>] <3.jpg, id=109, 2483.2775pt x 726.715pt>
+File: 3.jpg Graphic file (type jpg)
+ <use 3.jpg>
+Package pdftex.def Info: 3.jpg used on input line 197.
+(pdftex.def)             Requested size: 429.00238pt x 125.53589pt.
+
+<4.jpg, id=110, 1124.2pt x 843.15pt>
+File: 4.jpg Graphic file (type jpg)
+ <use 4.jpg>
+Package pdftex.def Info: 4.jpg used on input line 198.
+(pdftex.def)             Requested size: 429.00238pt x 321.75119pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 197--199
+ [][] 
+ []
+
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 197--199
+ [] 
+ []
+
+<7.jpg, id=111, 640.26703pt x 552.18797pt>
+File: 7.jpg Graphic file (type jpg)
+ <use 7.jpg>
+Package pdftex.def Info: 7.jpg used on input line 204.
+(pdftex.def)             Requested size: 312.00119pt x 269.08311pt.
+
+<8.jpg, id=112, 641.39626pt x 503.63156pt>
+File: 8.jpg Graphic file (type jpg)
+ <use 8.jpg>
+Package pdftex.def Info: 8.jpg used on input line 205.
+(pdftex.def)             Requested size: 312.00119pt x 244.99106pt.
+ [23 <./3.jpg> <./4.jpg>] [24 <./7.jpg> <./8.jpg>] (report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1728 strings out of 493333
+ 24318 string characters out of 3139193
+ 81899 words of memory out of 3000000
+ 5230 multiletter control sequences out of 15000+200000
+ 8501 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,6n,25p,787b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb>
+Output written on report.pdf (24 pages, 7285691 bytes).
+PDF statistics:
+ 142 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+
