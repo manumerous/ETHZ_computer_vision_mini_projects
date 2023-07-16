@@ -1,4 +1,4 @@
-# ETHZ_computer_vision_mini_projects
+# Computer Vision Projects ETHZ
 
 A collection of algorithms from the field of computer vision and image analysis written in the Computer Vision course of ETH Zürich.
 
